@@ -11,11 +11,27 @@ By the end of the program, you'll have a fully deployed, professional-looking we
 ## How to work with this repo (READ ME!)
 
 1. You should fork this repo into a **private** repo and start working on the steps. The folder structure should look something like this:
-[folder structure](assets/karate-kid-folder-structure.png)
-2. All commits should be done as a PR. This is important so the mentor can do code review even after the fact (after a PR was merged so it won't block the trainee) 
-3. After each step is completed the mentor should do the most comperhensive and harsh code review they can possibly do. The success of this program is mostly relies on good and teaching code reviews. 
-4. After each code review the trainee is expected to fix all comments.
-5. You should advance to the next step only after all the code review rejects has been fixed. In case the trainee is blocked by the mentor they should fill their time by learning and gaining more knowledge either by reading / watching videos / practicing coding challenges / etc.. ideas can be found [here](##deadtime-tasks)
+```plaintext
+project-root/
+├── 01-vanillaJs/
+├── 02-webpack/
+├── 03-local-storage/
+├── 04-cookies/
+├── 05-event-loop/
+├── 06-bind/
+├── 07-hoisting/
+├── 08-server/
+├── 09-database/
+├── 10-crud/
+├── 11-deployment/
+├── 12-ci-cd/
+└── 13-final-project/
+```
+
+1. All commits should be done as a PR. This is important so the mentor can do code review even after the fact (after a PR was merged so it won't block the trainee) 
+2. After each step is completed the mentor should do the most comperhensive and harsh code review they can possibly do. The success of this program is mostly relies on good and teaching code reviews. 
+3. After each code review the trainee is expected to fix all comments.
+4. You should advance to the next step only after all the code review rejects has been fixed. In case the trainee is blocked by the mentor they should fill their time by learning and gaining more knowledge either by reading / watching videos / practicing coding challenges / etc.. ideas can be found [here](##deadtime-tasks)
 
 ## Dev Enviroment (installations)
 * Git - create a github user and fork this repo.
