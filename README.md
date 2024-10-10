@@ -197,33 +197,3 @@ The karate kid kickstart is an intense, almost entirely self learnt,  karate kid
 The trainee also learns how to deploy their app to production via a standalone service (heroku for example).
 
 The final project is a fully deployed TDD written app on top of yoshi, WSR and wix ci.
-
-## How to work with this repo (READ ME!)
-
-1. You should fork this repo into a **private** repo and start working on the steps. The folder structure should look something like this:
-[folder structure](assets/karate-kid-folder-structure.png)
-2. All commits should be done as a PR. This is important so the mentor can do code review even after the fact (after a PR was merged so it won't block the trainee) 
-3. After each step is completed the mentor should do the most comperhensive and harsh code review they can possibly do. The success of this program is mostly relies on good and teaching code reviews. 
-4. After each code review the trainee is expected to fix all comments.
-5. You should advance to the next step only after all the code review rejects has been fixed. In case the trainee is blocked by the mentor they should fill their time by learning and gaining more knowledge either by reading / watching videos / practicing katas / etc.. ideas can be found [here]()
-
-## Deadtime tasks:
-
-Coding games and Katas:
-* https://www.codewars.com/
-An online programing game (I didn't do that.. if u do plz let me know how was it)
-* https://adventofcode.com/
-* https://alexnisnevich.github.io/untrusted/
-* https://screeps.com/
-* https://www.codingame.com
-* read everythign u can in mdn****
-
-YouTube:
-
-If you're into videos, you can and should subscribe to some of these youtube channels. Just look for an interesting talk and watch as you learn:
-
-* [How the event loop works](https://www.youtube.com/watch?v=8aGhZQkoFbQ) A must watch for any FED
-* [Sergey's "Must watch list"](https://github.com/bolshchikov/js-must-watch)
-* [JS Conf](https://www.youtube.com/user/jsconfeu/videos?view=0&sort=dd&flow=list&live_view=500) (probably the biggest js conf)
-* Nice dude that explains design patterns and features in a fun way. [link](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
-* [React Europe](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
