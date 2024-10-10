@@ -1,6 +1,6 @@
 ## Abstract
 
-Welcome to our exciting and engaging 13-step program for aspiring front-end developers! This course is designed to be self-paced and hands-on, allowing you to build the same application multiple times, each time incorporating new and advanced technologies. You'll start with basic vanilla JavaScript and gradually move on to creating a simple server and integrating a database.
+Welcome to our exciting and engaging 10-step program for aspiring front-end developers! This course is designed to be self-paced and hands-on, allowing you to build the same application multiple times, each time incorporating new and advanced technologies. You'll start with basic vanilla JavaScript and gradually move on to creating a simple server and integrating a database.
 
 Throughout the program, you'll acquire essential skills in JavaScript, server-side development, and database management. Additionally, you'll learn best practices for code reviews and continuous integration.
 
@@ -190,10 +190,16 @@ To learn:
 * Learn about hooks
 
 Todo:
-Write the todo app from sc## Abstract
+Write the todo app from scratch with React.
 
-The karate kid kickstart is an intense, almost entirely self learnt,  karate kid style (wash in, wash out) 13 steps program for front end developers where the trainee has to write the same app over and over from scratch. Starting from the most simple vanilla JS through writing a simple server with a DB, learning about webpack, flex css, localstorage, cookies, https, jwt, tests, react and much more.
+## Step 9 (Deadline - DD/MM) - Testing!
 
-The trainee also learns how to deploy their app to production via a standalone service (heroku for example).
+To Learn: TDD - [watch](https://www.youtube.com/watch?v=Jv2uxzhPFl4)
+Todo:
 
-The final project is a fully deployed TDD written app on top of yoshi, WSR and wix ci.
+* React tests using jest
+* React-testing-library 
+* At least 1 e2e test using puppeteer
+
+## Step 10 (Deadline - DD/MM) - Final Project!! Welcome to Wix!
+In the final project the Student will choose design and implement its own app for his portfolio with the teachers assistance and consult.
